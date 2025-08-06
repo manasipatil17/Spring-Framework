@@ -1,0 +1,12 @@
+package com.main;
+
+import com.entity.Employee;
+
+public class Main {
+
+	public static void main(String[] args) {
+		ApplicationContext context = new ClassPathXmlApplicationContext("springbeans.xml");
+		Employee e = context.getBean("emp",Employee.class);
+		System.out.println(e);
+	}
+}
