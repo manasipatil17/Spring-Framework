@@ -6,7 +6,6 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 import com.config.ConfigClass;
 import com.entity.Country;
-import com.entity.Employee;
 
 
 public class Main {
@@ -14,7 +13,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		ApplicationContext context= new AnnotationConfigApplicationContext(ConfigClass.class);
-		Employee e=context.getBean(.class);
-		System.out.println(e);
+		Country c=context.getBean(Country.class);
+		System.out.println(c);
 	}
 }
