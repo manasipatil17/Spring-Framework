@@ -14,7 +14,7 @@ public class Main {
 	public static void main(String[] args) {
 		
 		ApplicationContext context= new AnnotationConfigApplicationContext(ConfigClass.class);
-		Employee e=context.getBean(.class);
+		Employee e=context.getBean(Employee.class);
 		System.out.println(e);
 	}
 }
