@@ -7,11 +7,11 @@ import org.springframework.stereotype.Component;
 @Component
 public class User {
 
-	@Qualifier("Airtel")
+	@Qualifier("airtel")
 	@Autowired
 	private Sim sim1;
 	
-	@Qualifier("Jio")
+	@Qualifier("jio")
 	@Autowired
 	private Sim sim2;
 
