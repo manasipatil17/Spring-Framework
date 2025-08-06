@@ -1,10 +1,4 @@
 INDEX VERSION 1.134+C:\Users\DELL\OneDrive\Desktop\Manasi Practice\The kiran Academy Phase 2\Spring Workspace\.metadata\.plugins\org.eclipse.jdt.core
-2691946334.index
-3803894794.index
-2964640429.index
-4260586561.index
-2080153899.index
+2710914293.index
 2140419944.index
-3012986818.index
-3690148581.index
 1865797976.index
