@@ -2,7 +2,7 @@ package com.basePakage;
 
 import org.springframework.stereotype.Component;
 
-@Component()
+@Component("jio")
 public class Jio implements Sim{
 
 	@Override
