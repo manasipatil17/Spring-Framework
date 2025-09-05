@@ -2,6 +2,7 @@
 <section name="Workbench">
 	<section name="MavenProjectWizardLocationPage">
 		<list key="location">
+			<item value="C:\Users\DELL\OneDrive\Desktop\Manasi Practice\The kiran Academy Phase 2\Spring Workspace\Day2_DIwithXml\src\main\resources\springbeans.xml"/>
 			<item value="C:\Users\DELL\OneDrive\Desktop\Manasi Practice\The kiran Academy Phase 2\Spring Workspace\Day1_BeansCreationWithXml\pom.xml"/>
 		</list>
 		<list key="projectNameTemplate">
@@ -49,6 +50,9 @@
 		<list key="name">
 		</list>
 		<list key="artifactId">
+			<item value="Day3_AnnoQualifier"/>
+			<item value="Day2_BeansCreationByAnnotations"/>
+			<item value="Day2_DIwithXml"/>
 			<item value="Day1_BeansCtreationWithXml"/>
 			<item value="BeansCreationWithXml"/>
 			<item value="Day1_BeansCreationWithXml"/>

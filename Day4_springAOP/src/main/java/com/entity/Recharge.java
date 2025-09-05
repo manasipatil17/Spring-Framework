@@ -1,5 +1,5 @@
 package com.entity;
 
-public class Employww {
+public class Recharge {
 
 }
